@@ -1,0 +1,11 @@
+.git
+.idea
+.vscode
+target
+*.md
+.env
+.env.example
+AI_Engineer_Takehome.pdf
+docker-compose*.yml
+mvnwDebug
+mvnwDebug.cmd
